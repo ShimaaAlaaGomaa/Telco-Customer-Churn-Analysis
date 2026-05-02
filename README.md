@@ -32,15 +32,15 @@ The primary goal of this project is to:
 
 ### 1. Customer Overview
 Provides a high-level summary of customer demographics and total service usage.
-![Customer Overview](Screenshot 2025-07-24 003518.png)
+![Customer Overview](Screenshot 2025-07-24 003518.jpg)
 
 ### 2. Churn Analysis & Patterns
 Digs deeper into churn rates by contract type, payment method, and tenure groups.
-![Churn Analysis](Screenshot 2025-07-24 003501.png)
+![Churn Analysis](Screenshot 2025-07-24 003501.jpg)
 
 ### 3. Key Drivers of Churn (Insights)
 Highlights the most influential features affecting a customer's decision to leave using technical analysis.
-![Key Drivers](Screenshot 2025-07-24 003438.png)
+![Key Drivers](Screenshot 2025-07-24 003438.jpg)
 
 ## 💡 Key Insights
 * **Contract Influence:** Customers on month-to-month contracts are significantly more likely to churn than those on yearly plans.
